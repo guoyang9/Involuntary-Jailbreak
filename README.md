@@ -44,6 +44,7 @@ Implementing this method using APIs is quite simple and can be done in just a fe
 ## 🚀 Quick Start
 
 Copy and test the method using our [prompt template](prompt.txt).
+If find being blocked, removing line 9 can lead to the same jailbreak attack.
 
 > **⚠️ Note**: My OpenAI account got banned due to successful trials, so please be careful when testing using chatGPT website (API should be fine).
 
